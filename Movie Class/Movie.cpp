@@ -1,3 +1,12 @@
+/*
+Badajoz, Severiano
+
+CS A250
+September 15, 2017
+
+Lab 02
+*/
+
 #include <string>
 #include <iostream>
 #include "Movie.h"
